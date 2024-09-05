@@ -1,0 +1,15 @@
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfoInputs.cache
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfo.cs
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.csproj.CoreCompileInputs.cache
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.sourcelink.json
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.exe
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.deps.json
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.runtimeconfig.json
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.dll
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.pdb
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.dll
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\refint\interaktiv.dll
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.pdb
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.genruntimeconfig.cache
+C:\Users\calin.alexuta\Documents\programation\interaktiv\interaktiv\obj\Debug\net8.0\ref\interaktiv.dll
