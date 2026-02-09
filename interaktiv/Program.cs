@@ -44,12 +44,8 @@ else if (choice == "prata")
   }
   else
   {
-    Console.WriteLine("Du skrev fel och blir därför skickad till krig dör du kommer att dö.");
+    Console.WriteLine("Du skrev fel och blir därför skickad till krig där du kommer att dö.");
   }
-}
-else
-{
-  Console.WriteLine("Du skrev fel och blir därför skickad till krig dör du kommer att dö.");
 }
 }
 
